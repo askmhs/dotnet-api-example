@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnet-rest-api", "dotnet-rest-api.csproj", "{CAA60085-83E8-4E53-BA06-D2D0A05D6E51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAA60085-83E8-4E53-BA06-D2D0A05D6E51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAA60085-83E8-4E53-BA06-D2D0A05D6E51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAA60085-83E8-4E53-BA06-D2D0A05D6E51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAA60085-83E8-4E53-BA06-D2D0A05D6E51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
